@@ -7,8 +7,11 @@ Points : 10
 Files can always be changed in a secret way. Can you find the flag? [cat.jpg](https://mercury.picoctf.net/static/b4d62f6e431dc8e563309ea8c33a06b3/cat.jpg)
 ### 2.Solution
 First you need a program to read metadata of images
+
 Download ExifTool [here](https://www.geeksforgeeks.org/installing-and-using-exiftool-on-linux/)
+
 Read 'cat.jpg' with exiftool
+
 ```bash
 exiftool cat.jpg
 ```
