@@ -1,4 +1,4 @@
-#Static ain't always noise
+# Static ain't always noise
 
 Category : General Skills
 
