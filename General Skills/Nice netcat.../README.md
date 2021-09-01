@@ -24,4 +24,4 @@ done
 ```bash
 picoCTF{g00d_k1tty!_n1c3_k1tty!_7c0821f5}
 ```
-###4.Resources
+
