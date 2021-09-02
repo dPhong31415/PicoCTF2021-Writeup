@@ -33,7 +33,11 @@ picoCTF{sma11_N_n0_g0od_05012767}
 ```
 ### 4.Resources
 [picoCTF cryptography guide](https://picoctf.org/learning_guides/Book-2-Cryptography.pdf)
+
 [Basic cryptography](https://youtube.com/playlist?list=PL1ZN4kabqbof_aDUyIcD6tQntun8LLIgL)
+
 [Very easy to understand Modular Arithmetic explain](https://www.youtube.com/watch?v=-zEcHLdABfo)
+
 [RSA Encryption Algorithm](https://www.youtube.com/watch?v=wXB-V_Keiu8)
+
 [RSA decryption with python](https://www.youtube.com/watch?v=Ovi33rfaLLk&t=135s)
